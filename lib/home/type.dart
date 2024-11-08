@@ -9,7 +9,7 @@ class RestaurantList {
   final String image;
   final String name;
   final String info;
-  final double star;
+  final int star;
   final String ship;
   final String time;
 
